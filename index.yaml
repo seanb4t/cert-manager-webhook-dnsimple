@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cert-manager-webhook-dnsimple:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2020-05-27T09:41:29.261497397+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 92049e94fecd21992590f77d8da28b3bdef8b7dc17da06de2ae0aa4cb6122eef
+    name: cert-manager-webhook-dnsimple
+    urls:
+    - https://github.com/neoskop/cert-manager-webhook-dnsimple/releases/download/cert-manager-webhook-dnsimple-0.0.1/cert-manager-webhook-dnsimple-0.0.1.tgz
+    version: 0.0.1
+generated: "2020-05-27T09:41:28.849613265+02:00"
